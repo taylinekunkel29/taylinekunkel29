@@ -1,0 +1,4 @@
+- 👋 Olá,meu nome é @taylinekunkel
+- 👀 Meu interesse é aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de javascript e scratch.
+- meu email de contato é taylinekunkel@gmail.com
